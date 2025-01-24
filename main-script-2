@@ -10,13 +10,13 @@ getgenv().petsGoConfig = {
     CONSUME_EVENT_GIFT_BAG = false,
     CONSUME_EVENT_EGG = false, -- Hype eggs not included
 
-    WEBHOOK_URL = "https://discord.com/api/webhooks/1327680723947225275/piwNxO0GCU0YA_kzNIpabTqlwacXX3cTcjslZAbTy2LF9Boi0YRSyasesGW9F2mHszyi",
-    MAILING_WEBHOOK_URL = "https://discord.com/api/webhooks/1327680723947225275/piwNxO0GCU0YA_kzNIpabTqlwacXX3cTcjslZAbTy2LF9Boi0YRSyasesGW9F2mHszyi",
-    DISCORD_ID = "1282735726148194346",  -- Required!!! (For public-webhook)
+    WEBHOOK_URL = "https://discord.com/api/webhooks/1332301174598012979/qPROZTnPnW2QVVcgpMFe-Xhrpts48AW5mvKpEWJJZZXYbtPGTK8zxZTMVukgmIw5yzbY",
+    MAILING_WEBHOOK_URL = "https://discord.com/api/webhooks/1332301174598012979/qPROZTnPnW2QVVcgpMFe-Xhrpts48AW5mvKpEWJJZZXYbtPGTK8zxZTMVukgmIw5yzbY",
+    DISCORD_ID = "1332301120101552188",  -- Required!!! (For public-webhook)
     WEBHOOK_ODDS = 1000000000, -- Minimum Pet Odds To Trigger Webhook
 
     DIAMOND_EGG = false,  -- true = Diamond Egg, false = F2P Egg
-    MINE_ALL_ORES = false,  -- true = all ore, false = runic & event ore
+    MINE_ALL_ORES = true,  -- true = all ore, false = runic & event ore
     
     -- Allowed enchant keywords : Criticals, Loot, Speed, Strength, Chests, Diamonds, Huges, Lightning, TNT
     PICKAXE_ENCHANTS = {"Speed", "Strength", "Loot"},
